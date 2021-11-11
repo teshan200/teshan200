@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [www.techeralk.xyz](www.techeralk.xyz)
 
-- 📫 How to reach me **git.teshan@gmail.com**
+- 📫 How to reach me **hello@teshan.ml**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
